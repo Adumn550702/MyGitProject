@@ -12,3 +12,11 @@ def divide(a, b):
         return a / b
     else:
         return "Error: Division by zero"
+def absolute_value(a):
+    return abs(a)
+
+def quadratic(a):
+    return a * a
+
+def square_root(a):
+    return math.sqrt(a)
