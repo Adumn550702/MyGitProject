@@ -13,6 +13,12 @@ def main():
             result = calculator_operations.multiply(num1, num2)
         elif operation == 'divide':
             result = calculator_operations.divide(num1, num2)
+        elif operation == 'square_root':
+            result = calculator_operations.square_root(num1)
+        elif operation == 'absolute_value':
+            result = calculator_operations.absolute_value(num1)
+        elif operation == 'quadratic':
+            result = calculator_operations.quadratic(num1)
 
         print("Result:", result)
         
