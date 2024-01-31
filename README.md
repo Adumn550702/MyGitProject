@@ -1,7 +1,7 @@
 # Basic Python Calculator
 
 ## Introduction
-This is a simple calculator program in Python. It can perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+This is a simple calculator program in Python. It can perform basic arithmetic operations like addition, subtraction, multiplication, and division.  Followed by returning absolute values and adding square roots.
 
 ## Files
  calculator_operations.py: Contains functions for basic arithmetic operations.
